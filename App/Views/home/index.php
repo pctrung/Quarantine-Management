@@ -12,14 +12,13 @@
             <h5 class="login-box-msg">Tra cứu thông tin người cách ly</h5>
             <?php require_once(VIEW . DS . "shared/noti.php") ?>
             <form action="<?= DOCUMENT_ROOT ?>/home/detail/" method="post">
-              <div class="input-group mb-3">
-                <input required type="number" class="form-control" placeholder="Mã số được cấp (*)" name="id" value="<?php if (isset($data['name'])) echo $data['id'] ?>">
+              <div class="form-group mb-3">
+                <label for="id">Mã cách ly</label>
+                <input required type="number" class="form-control" placeholder="Mã số được cấp (*)" name="id" id="id" value="<?php if (isset($data['name'])) echo $data['id'] ?>">
               </div>
-              <div class="input-group mb-3">
-                <input type="number" class="form-control" placeholder="Số CMND" name="identityCard" value="<?php if (isset($data['name'])) echo $data['identityCard'] ?>">
-              </div>
-              <div class="input-group mb-3">
-                <input type="text" class="form-control" placeholder="Họ tên (không dấu)" name="fullname" value="<?php if (isset($data['name'])) echo $data['name'] ?>">
+              <div class="form-group mb-3">
+                <label for="name">Họ tên</label>
+                <input type="text" class="form-control" placeholder="Họ tên (không dấu)" id="name" name="fullname" value="<?php if (isset($data['name'])) echo $data['name'] ?>">
               </div>
               <div class="row">
                 <!-- /.col -->

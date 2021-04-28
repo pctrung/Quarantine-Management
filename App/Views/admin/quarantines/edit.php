@@ -61,7 +61,7 @@
                </div>
              </div>
              <div class="form-group">
-               <label for="phone">Số điện thoại</label>
+               <label for="phone">Số điện thoại <span style="color: red;">(*)</span></label>
                <input type="number" id="phone" name="phone" class="form-control" value="<?= $data['phone'] ?>"></input>
              </div>
              <div class="form-group">
