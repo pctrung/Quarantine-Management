@@ -11,7 +11,7 @@ return [
     'phone' => '0369 863 655',
     'facebook' => 'https://www.facebook.com/trungxi.it',
     'github' => 'https://www.github.com/trungxiit',
-    'linked' => 'https://www.linkedin.com/in/trung-ph%E1%BA%A1m-101b871a2/',
+    'linkedin' => 'https://www.linkedin.com/in/trung-ph%E1%BA%A1m-101b871a2/',
   ],
   'khang' => [
     'fullname' => 'Nguyễn Vĩnh Khang',
@@ -23,7 +23,7 @@ return [
     'phone' => '0962 435 100',
     'facebook' => 'https://www.facebook.com/khangcuteisme',
     'github' => '#',
-    'linked' => '#',
+    'linkedin' => '#',
   ],
   'long' => [
     'fullname' => 'Trương Hoàng Long',
@@ -35,7 +35,7 @@ return [
     'phone' => '0929 441 158',
     'facebook' => 'https://www.facebook.com/hoanglong.truong366',
     'github' => '#',
-    'linked' => '#',
+    'linkedin' => '#',
   ],
   'kien' => [
     'fullname' => 'Nguyễn Trung Kiên',
@@ -47,6 +47,6 @@ return [
     'phone' => '0853 475 317',
     'facebook' => 'https://www.facebook.com/profile.php?id=100006040029598',
     'github' => '#',
-    'linked' => '#',
+    'linkedin' => '#',
   ],
 ];

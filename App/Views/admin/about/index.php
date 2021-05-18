@@ -62,10 +62,10 @@
                     <a href="<?= $member['facebook'] ?>" target="_blank" class="fab fa-facebook fa-2x"></a>
                   </div>
                   <div class="col text-center">
-                    <a href="<?= $member['facebook'] ?>" target="_blank" class="fab fa-linkedin fa-2x"></a>
+                    <a href="<?= $member['linkedin'] ?>" target="_blank" class="fab fa-linkedin fa-2x"></a>
                   </div>
                   <div class="col text-center">
-                    <a href="<?= $member['facebook'] ?>" target="_blank" class="fab fa-github fa-2x"></a>
+                    <a href="<?= $member['github'] ?>" target="_blank" class="fab fa-github fa-2x"></a>
                   </div>
                 </div>
               </div>
