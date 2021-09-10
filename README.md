@@ -3,4 +3,3 @@
 ## Tech Stack
 - PHP
 - Bootstrap
-- MVC
