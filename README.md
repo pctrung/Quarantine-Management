@@ -1,3 +1,6 @@
 # Quarantine Manager
 - School project - Introduction Software Technology
-- PHP, Bootstrap, MVC
+## Tech Stack
+- PHP
+- Bootstrap
+- MVC
