@@ -1,5 +1,5 @@
-# Quarantine Manager
-- School project - Introduction Software Technology
+# Quarantine Manager System
+- Projects for school subjects - Introduction Software Technology
 ## Tech Stack
 - PHP
 - Bootstrap
